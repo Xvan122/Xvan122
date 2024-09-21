@@ -26,4 +26,4 @@
 </pre>
 </div>
 
-![Loading Animation]([https://raw.githubusercontent.com/Xvan122/gh-pages/main/assets/loading.gif](https://xvan122.github.io/gh-pages/loading.html))
+![Preview Web/HTML](https://xvan122.github.io/gh-pages/loading.html)
